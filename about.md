@@ -6,9 +6,9 @@ permalink: /about/
 
 Some information about you!
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+＃＃＃ 更多信息
+哈哈哈
+包含您希望包含的有关您自己的任何其他类型信息的地方。发送一擦
 
 ### Contact me
 
